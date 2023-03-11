@@ -4,6 +4,12 @@ DOMAINS
 
 https://server-album.vercel.app/
 
+DESCRIPTION
+Album de imágenes de tecnologías de servidor
+
+TECNOLOGIES
+HTNL / / CSS / Bootstrap
+
 STATUS
 Ready
 
